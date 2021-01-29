@@ -1,0 +1,8 @@
+temple
+run
+mango
+apple
+pen
+cap
+ink
+junk
